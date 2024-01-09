@@ -94,6 +94,7 @@
     <Content Include="default.aspx" />
     <Content Include="cart.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="img\noodle-bowl.ico" />
     <Content Include="img\normal-ramen-1.jpg" />
     <Content Include="img\spicy-ramen-1.png" />
     <Content Include="img\spicy-ramen-2.jpg" />

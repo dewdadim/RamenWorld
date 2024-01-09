@@ -5,6 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Login - Ramen World</title>
+	<link rel="icon" type="image/x-icon" href="/img/noodle-bowl.ico">
 
     <link rel="stylesheet" href="../Content/bootstrap.min.css" />
     <script src="../Scripts/bootstrap.bundle.min.js"></script>
@@ -21,6 +22,10 @@
     <script src="../lib/owlcarousel/owl.carousel.min.js"></script>
 
     <script src="js/main.js"></script>
+
+	<meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 <body>
     <div class="card bg-light" style="height: 100vh;">
